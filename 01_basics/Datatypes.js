@@ -21,7 +21,7 @@
 //2. REFERENCE (non-primitive)
 
 // arrays, objects, functions
-//return type when checked by typeof fun is objects for
+//return type when checked by typeof fun comes as objects for
 //all reference type.
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~MEMORY~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

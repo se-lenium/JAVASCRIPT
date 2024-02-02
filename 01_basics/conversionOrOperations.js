@@ -26,8 +26,16 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
  // empty => false "" => false
  //something apple banana name "aditya" => true
 
- let number = 33
+//  let number = 33
 
- let statement = String(number)
- console.log(statement)
- console.log(typeof(statement))
+//  let statement = String(number)
+//  console.log(statement)
+//  console.log(typeof(statement))
+
+// let value = 3
+// console.log("1"+ 2);//12
+// console.log("1"+2+2);//122
+// console.log(1+2+"2");//32
+// console.log(+true);//1
+// console.log(true+);// invalid
+// console.log(+"");//0
